@@ -1,0 +1,77 @@
+
+
+#sec-1{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJnNlIX_XmmhzHnPqn5xzE-k_QrIUkIuhAA&s") ;
+    background-size:contain ;
+    height: 300px;
+    text-align: center;
+    color: rgb(253, 252, 252);
+    margin-top:30px ;
+    margin-bottom: 30px;
+}
+
+h2{
+    text-shadow: 0px 0px 10px black;
+}
+
+h1{
+    text-align: center;
+background-color:darkorange;
+color: white;
+margin:0;
+
+}
+.main{
+    background-color: aquamarine;
+    height: 1220px;
+    margin-top:0px;
+    padding-top:40px  ;
+}
+.box-1{ 
+    background-color:white;
+    height:350px ;
+    width:350px;
+   color: cadetblue;
+   text-align: center;
+   border-color:gray;
+   border: width 20px 20px 20px 20px;
+   border-style:solid;
+   margin-left: auto;
+   margin-right:auto;
+}
+.box-2{
+   background-color: white;
+   height: 350px;
+   width:350px;
+   text-align: center;
+   border-color: rgb(218, 222, 222);
+   border: 20px 20px 20px 20px;
+   border-style:solid;
+   margin-left: auto;
+   margin-right:auto;
+   
+}
+
+.box-3{
+background-color: white;
+height: 350px;
+width:350px;
+text-align: center
+;
+border-color:blue;
+border:20px 20px 20px 20px;
+border-style:solid;
+margin-left: auto;
+margin-right:auto;
+}
+h3{
+    font-size: 25px;
+   color: cadetblue;
+   text-align: center;
+
+}
+p{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
